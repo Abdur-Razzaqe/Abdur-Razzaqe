@@ -41,8 +41,8 @@ My goal is to become a professional **Full Stack Developer** and grow more in th
 ---
 
  Social Links
- LinkedIn: https://linkedin.com/in/yourusername  
- GitHub: https://github.com/yourusername  
+ LinkedIn: https://linkedin.com/in/abdur-razzak 
+ GitHub: https://github.com/Abdur-Razzaqe 
 
 
 
