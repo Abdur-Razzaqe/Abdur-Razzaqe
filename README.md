@@ -47,15 +47,17 @@ My goal is to become a professional **Full Stack Developer** and grow more in th
 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdur-Razzaqe&show_icons=true&theme=transparent" />
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdur-Razzaqe&show_icons=true&count_private=true&theme=radical" alt="Abdur Razzaqe GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Razzaqe&layout=compact&theme=transparent" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Razzaqe&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdur-Razzaqe&theme=transparent" />
+  <img src="https://streak-stats.demolab.com/?user=Abdur-Razzaqe&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 
