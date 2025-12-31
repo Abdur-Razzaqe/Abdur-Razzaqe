@@ -7,7 +7,8 @@
 <h3 align="center">MERN Stack Developer</h3>
 
 
-About Me
+About Me: 
+
 I am Abdur Razzaqe, a passionate MERN Stack Developer.  
 I enjoy building modern and scalable web applications.  
 I explore HTML5, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB.  
@@ -15,14 +16,15 @@ My goal is to become a professional **Full Stack Developer** and grow more in th
 
 
 
- Current Activities
+ Current Activities: 
+ 
  Exploring advanced **MERN Stack**
  Working on full stack web applications
  Improving backend & database skills
 
 
 
- Skills
+ Skills:
 
 
 <p>
