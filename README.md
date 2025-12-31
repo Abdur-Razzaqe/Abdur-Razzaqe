@@ -1,12 +1,6 @@
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=170&section=header&text=Abdur%20Razzaqe&fontSize=34&fontColor=ffffff&desc=Full%20Stack%20Developer%20in%20Progress&descSize=15&descAlignY=65&animation=fadeIn&color=0:e0eafc,100:cfdef3" 
-    style="
-      border-radius:20px;
-      box-shadow: 0 8px 24px rgba(0,0,0,0.15);
-    " 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff" />
 </p>
 <h1 align="center">Hi, I'm Abdur Razzaqe</h1>
 <h3 align="center">MERN Stack Developer</h3>
