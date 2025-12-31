@@ -44,21 +44,14 @@ My goal is to become a professional **Full Stack Developer** and grow more in th
   LinkedIn: https://linkedin.com/in/abdur-razzak,
  GitHub: https://github.com/Abdur-Razzaqe 
 
-GitHub Stats:
 
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdur-Razzaqe&show_icons=true&count_private=true&theme=radical" alt="Abdur Razzaqe GitHub Stats" />
-</p>
+ GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abdur-Razzaqe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abdur-Razzaqe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Razzaqe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Razzaqe&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdur-Razzaqe&theme=radical" alt="GitHub Streak Stats" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=Abdur-Razzaqe&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
