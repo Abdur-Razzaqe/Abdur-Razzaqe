@@ -1,8 +1,12 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Abdur%20Razzaqe&fontSize=38&fontColor=ffffff&desc=MERN%20Stack%20Developer&descSize=18&descAlign=50&descAlignY=65&animation=fadeIn&color=0:1d2671,100:c33764" 
-    style="border-radius:16px;" 
+    src="https://capsule-render.vercel.app/api?type=rect&height=170&section=header&text=Abdur%20Razzaqe&fontSize=36&fontColor=ffffff&desc=MERN%20Stack%20Developer&descSize=16&descAlignY=65&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364" 
+    style="
+      border-radius:18px;
+      backdrop-filter: blur(10px);
+      box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+    " 
   />
 </p>
 
