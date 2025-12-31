@@ -1,6 +1,9 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Abdur%20Razzaqe&fontSize=42&fontColor=ffffff&desc=MERN%20Stack%20Developer&descSize=18&descAlignY=65&animation=fadeIn&color=gradient" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=Abdur%20Razzaqe&fontSize=38&fontColor=ffffff&desc=MERN%20Stack%20Developer&descSize=18&descAlign=50&descAlignY=65&animation=fadeIn&color=0:1d2671,100:c33764" 
+    style="border-radius:16px;" 
+  />
 </p>
 
 <h1 align="center">Hi, I'm Abdur Razzaqe</h1>
