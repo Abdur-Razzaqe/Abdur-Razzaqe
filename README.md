@@ -1,15 +1,13 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=170&section=header&text=Abdur%20Razzaqe&fontSize=36&fontColor=ffffff&desc=MERN%20Stack%20Developer&descSize=16&descAlignY=65&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364" 
+    src="https://capsule-render.vercel.app/api?type=rect&height=170&section=header&text=Abdur%20Razzaqe&fontSize=34&fontColor=ffffff&desc=Full%20Stack%20Developer%20in%20Progress&descSize=15&descAlignY=65&animation=fadeIn&color=0:e0eafc,100:cfdef3" 
     style="
-      border-radius:18px;
-      backdrop-filter: blur(10px);
-      box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+      border-radius:20px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.15);
     " 
   />
 </p>
-
 <h1 align="center">Hi, I'm Abdur Razzaqe</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
