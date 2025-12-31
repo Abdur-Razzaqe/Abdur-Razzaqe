@@ -38,27 +38,15 @@ My goal is to become a professional **Full Stack Developer** and grow more in th
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
 
- Social Links
- LinkedIn: https://linkedin.com/in/abdur-razzak 
+
+ Social Links: 
+ 
+ LinkedIn: https://linkedin.com/in/abdur-razzak,
  GitHub: https://github.com/Abdur-Razzaqe 
 
 
 
- GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdur-Razzaqe&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Razzaqe&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdur-Razzaqe&theme=tokyonight" />
-</p>
 
 
  *Thank you for visiting my GitHub profile!*
