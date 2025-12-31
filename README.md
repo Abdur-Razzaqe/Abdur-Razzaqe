@@ -16,7 +16,7 @@ My goal is to become a professional **Full Stack Developer** and grow more in th
 
 
 
- Current Activities: 
+** Current Activities:** 
  
   Exploring advanced **MERN Stack**
  Working on full stack web applications
