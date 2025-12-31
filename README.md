@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Abdur%20Razzaqe&fontSize=42&fontColor=ffffff&desc=MERN%20Stack%20Developer&descSize=18&descAlignY=65&animation=fadeIn&color=gradient" />
 </p>
 
 <h1 align="center">Hi, I'm Abdur Razzaqe</h1>
