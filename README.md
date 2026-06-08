@@ -1,60 +1,59 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff" />
 </p>
 <h1 align="center">Hi, I'm Abdur Razzaqe</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
 
-### About Me: 
+About Me: 
 
-I am Abdur Razzaqe, a passionate MERN Stack Developer.  
-I enjoy building modern and scalable web applications.  
-I explore HTML5, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB.  
+I am Abdur Razzaqe, a passionate MERN Stack Developer.  
+I enjoy building modern and scalable web applications.  
+I explore HTML5, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB.  
 My goal is to become a professional **Full Stack Developer** and grow more in this field.
 
----
 
- Current Activities:
- 
-  Exploring advanced **MERN Stack**
- Working on full stack web applications
- Improving backend & database skills
----
 
-### 🛠 Tech Stack
-**Frontend:**
+ Current Activities:
+ 
+  Exploring advanced **MERN Stack**
+ Working on full stack web applications
+ Improving backend & database skills
+
+
+
+ Skills:
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,nextjs,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react" />
 </p>
 
-**Backend & Database:**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-**Animations & Tools:**
+ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=gsap,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
-
-Social Links: 
-  LinkedIn: https://linkedin.com/in/abdur-razzak,
- GitHub: https://github.com/Abdur-Razzaqe 
 
 
- GitHub Stats:
+ Social Links: 
+  LinkedIn: https://linkedin.com/in/abdur-razzak,
+ GitHub: https://github.com/Abdur-Razzaqe 
+
+
+ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdur-Razzaqe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdur-Razzaqe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Razzaqe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 [![](https://visitcount.itsvg.in/api?id=Abdur-Razzaqe&icon=0&color=0)](https://visitcount.itsvg.in)
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Abdur-Razzaqe&icon=0&color=0" />
-</p>
 
----
 
-*Thank you for visiting my profile! Let's build something amazing together.*
+
+
+ *Thank you for visiting my GitHub profile!*
