@@ -14,10 +14,10 @@ My goal is to become a professional **Full Stack Developer** and grow more in th
 
 ---
 
-###  Current Activities
-**Exploring:** Advanced MERN Stack concepts.
-**Working on:** Building scalable full-stack web applications.
-**Improving:** Backend architecture, database optimization, and security skills.
+###  Current Activities:
+Exploring advanced **MERN Stack**
+ Working on full stack web applications
+ Improving backend & database skills
 ---
 
 
@@ -30,28 +30,36 @@ My goal is to become a professional **Full Stack Developer** and grow more in th
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
-
- Tools
+---
+### Tools:  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,ci/cd" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,githubactions" />
 </p>
 
+---
 
+ ### Social Links: 
+ <p align="left">
+  <a href="https://linkedin.com/in/abdur-razzak">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Abdur-Razzaqe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
- Social Links: 
-  LinkedIn: https://linkedin.com/in/abdur-razzak,
- GitHub: https://github.com/Abdur-Razzaqe 
+---
 
+ ### GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdur-Razzaqe&theme=radical&show_icons=true&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdur-Razzaqe&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Razzaqe&theme=radical&layout=compact" />
+</p>
 
- GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abdur-Razzaqe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abdur-Razzaqe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Razzaqe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-[![](https://visitcount.itsvg.in/api?id=Abdur-Razzaqe&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Abdur-Razzaqe&icon=0&color=0" />
+</p>
 
 
  *Thank you for visiting my GitHub profile!*
