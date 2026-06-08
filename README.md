@@ -6,7 +6,8 @@
 <h3 align="center">MERN Stack Developer</h3>
 ---
 
-### About Me: 
+### About Me: 
+
 I am Abdur Razzaqe, a passionate MERN Stack Developer.  
 I enjoy building modern and scalable web applications.  
 I explore HTML5, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB.  
@@ -15,11 +16,12 @@ My goal is to become a professional **Full Stack Developer** and grow more in th
 ---
 
 ###  Current Activities:
-Exploring advanced **MERN Stack**
- Working on full stack web applications
- Improving backend & database skills
----
 
+Exploring advanced **MERN Stack** 
+Working on full stack web applications 
+Improving backend & database skills 
+
+---
 
 ### Skills:
 
@@ -31,26 +33,25 @@ Exploring advanced **MERN Stack**
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 ---
+
 ### Tools:  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,githubactions" />
 </p>
 
 ---
-
- ### Social Links: 
+### Social Links: 
  <p align="left">
-  <a href="https://linkedin.com/in/abdur-razzak">
+  <a href="https://linkedin.com/in/abdur-razzaqe">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a>  
   <a href="https://github.com/Abdur-Razzaqe">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
-
- ### GitHub Stats:
+### GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdur-Razzaqe&theme=radical&show_icons=true&hide_border=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Abdur-Razzaqe&theme=radical&hide_border=false" />
