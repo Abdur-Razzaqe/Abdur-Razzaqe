@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi, I'm Abdur Razzaqe</h1>
 <h3 align="center">MERN Stack Developer</h3>
----
+
 
 ### About Me: 
 
@@ -32,7 +32,6 @@ Improving backend & database skills
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
----
 
 ### Tools:  
 <p>
