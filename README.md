@@ -52,13 +52,17 @@ Improving backend & database skills
 ---
 ### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdur-Razzaqe&theme=radical&show_icons=true&hide_border=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdur-Razzaqe&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Razzaqe&theme=radical&layout=compact" />
+  <img src="https://img.shields.io/badge/Total_Commits-View_on_Profile-brightgreen?logo=github" alt="Commits" />
+  <img src="https://img.shields.io/badge/Language-JavaScript%2FTypeScript-blue?logo=typescript" alt="Top Language" />
+  <br/>
+  <img src="https://img.shields.io/badge/Streak-Active-orange?logo=fire" alt="Streak" />
 </p>
 
+###  Activity Graph
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Abdur-Razzaqe&icon=0&color=0" />
+  <a href="https://github.com/Abdur-Razzaqe">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdur-Razzaqe&theme=radical&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
 </p>
 
 
