@@ -26,7 +26,7 @@ My goal is to become a professional **Full Stack Developer** and grow more in th
  Skills:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,ts" />
 </p>
 
 <p>
