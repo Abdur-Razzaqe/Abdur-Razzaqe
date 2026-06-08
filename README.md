@@ -23,21 +23,23 @@ My goal is to become a professional **Full Stack Developer** and grow more in th
 
 
 
- Skills:
-
+### 🛠 Tech Stack
+**Frontend:**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,nextjs,ts" />
 </p>
 
+**Backend & Database:**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
- Tools
+**Animations & Tools:**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=gsap,git,github,vscode,postman" />
 </p>
 
+---
 
 
  Social Links: 
