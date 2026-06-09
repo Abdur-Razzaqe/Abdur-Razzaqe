@@ -49,8 +49,8 @@ Improving backend & database skills
   </a>
 </p>
 
-
 ---
+
 ### GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdur-Razzaqe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
@@ -58,15 +58,6 @@ Improving backend & database skills
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Razzaqe&theme=radical&layout=compact" />
 </p>
 ---
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdur-Razzaqe&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 
 ###  Activity Graph
 <p align="center">
