@@ -53,8 +53,8 @@ Improving backend & database skills
 ---
 ### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdur-Razzaqe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Razzaqe&theme=radical&layout=compact&cache_seconds=86400" />
+  <img src="https://abdur-razzaqe.vercel.app/api?username=Abdur-Razzaqe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img src="https://abdur-razzaqe.vercel.app/api/top-langs/?username=Abdur-Razzaqe&theme=radical&layout=compact&cache_seconds=86400" />
 </p>
 
 ---
