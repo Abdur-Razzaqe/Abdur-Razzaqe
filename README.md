@@ -41,22 +41,30 @@ Improving backend & database skills
 ---
 ### Social Links: 
  <p align="left">
-  <a href="https://linkedin.com/in/abdur-razzaqe">
+  <a href="https://linkedin.com/in/abdur-razzaqe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>  
-  <a href="https://github.com/Abdur-Razzaqe">
+  </a>
+
+  <a href="https://github.com/Abdur-Razzaqe" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+
 ---
 ### GitHub Stats:
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Commits-View_on_Profile-brightgreen?logo=github" alt="Commits" />
-  <img src="https://img.shields.io/badge/Language-JavaScript%2FTypeScript-blue?logo=typescript" alt="Top Language" />
-  <br/>
-  <img src="https://img.shields.io/badge/Streak-Active-orange?logo=fire" alt="Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdur-Razzaqe&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Razzaqe&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdur-Razzaqe&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ###  Activity Graph
 <p align="center">
