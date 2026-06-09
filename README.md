@@ -53,11 +53,10 @@ Improving backend & database skills
 ---
 ### GitHub Stats:
 <p align="center">
-  <img height="180em" src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=Abdur-Razzaqe&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=Abdur-Razzaqe&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Total_Commits-View_on_Profile-brightgreen?logo=github" alt="Commits" />
+  <img src="https://img.shields.io/badge/Language-JavaScript%2FTypeScript-blue?logo=typescript" alt="Top Language" />
+  <br/>
+  <img src="https://img.shields.io/badge/Streak-Active-orange?logo=fire" alt="Streak" />
 </p>
 
 ---
