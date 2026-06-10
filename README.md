@@ -17,9 +17,9 @@ My goal is to become a professional **Full Stack Developer** and grow more in th
 
 ###  Current Activities:
 
-Exploring advanced **MERN Stack** 
-Working on full stack web applications 
-Improving backend & database skills 
+Exploring advanced **MERN Stack**  
+Working on full stack web applications.  
+Improving backend & database skills.  
 
 ---
 
@@ -57,6 +57,7 @@ Improving backend & database skills
   <img src="https://nirzak-streak-stats.vercel.app/?user=Abdur-Razzaqe&theme=radical&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Razzaqe&theme=radical&layout=compact" />
 </p>
+
 ---
 
 ###  Activity Graph
